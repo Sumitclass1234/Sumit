@@ -1,2 +1,2 @@
-# Sumit
+# Sumit Kundu
 Hello world, Tthis is my Profile....
