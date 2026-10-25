@@ -1,5 +1,5 @@
 # Sumit Kundu
-Hello world, Tthis is my Profile....
+Hello world, this is my Profile....
 
 <!-- ====================================================== -->
 
